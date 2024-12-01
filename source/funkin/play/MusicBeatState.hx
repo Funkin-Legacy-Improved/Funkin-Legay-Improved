@@ -1,4 +1,4 @@
-package;
+package funkin.play;
 
 import Conductor.BPMChangeEvent;
 import flixel.FlxG;

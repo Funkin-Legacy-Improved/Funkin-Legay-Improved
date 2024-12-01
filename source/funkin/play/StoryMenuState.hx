@@ -1,4 +1,4 @@
-package;
+package funkin.play;
 
 #if discord_rpc
 import Discord.DiscordClient;

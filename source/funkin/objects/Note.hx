@@ -1,4 +1,4 @@
-package;
+package funkin.objects;
 
 import flixel.FlxG;
 import flixel.FlxSprite;

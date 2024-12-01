@@ -1,5 +1,6 @@
 package ui;
 
+import funkin.play.main.Main;
 import flixel.FlxCamera;
 import flixel.FlxG;
 import flixel.FlxObject;
